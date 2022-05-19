@@ -9,12 +9,12 @@
 
 #### Input file format (JSON)
 ###### [
-######	{
-######        "ROOM" : <Room number>,
-######        "SID" : <Sensor Id>,
-######        "TIME" : <Time Stamp>,
-######        "TYPE" : <Event Type>,
-######        "VALUE" : <Sensor Value>
+######    {
+######        "ROOM" : "Room number",
+######        "SID" : "Sensor Id",
+######        "TIME" : "Time Stamp",
+######        "TYPE" : "Event Type",
+######        "VALUE" : "Sensor Value"
 ######    }
 ###### ]
 
