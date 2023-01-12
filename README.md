@@ -1,5 +1,7 @@
 ## A Home Security Simulation project written in C++
 
+### Walkthrough: https://youtu.be/nOz1fIDlLAE
+
 #### The build folder contains the build files and executable
 
 #### The input files are in the data folder
